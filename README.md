@@ -1,2 +1,1 @@
-# TEAMdEoU
-- Team deou .
+## For : @ DEOOUS
